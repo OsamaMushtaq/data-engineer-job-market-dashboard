@@ -2,7 +2,7 @@
 
 An end-to-end analytics project: raw job-posting data → PostgreSQL views → Power BI dashboard.
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard1.png)
 
 ## Key findings
 
