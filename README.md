@@ -52,6 +52,3 @@ An end-to-end analytics project: raw job-posting data → PostgreSQL views → P
 
 SQL (CTEs, window functions, views, aggregation) • PostgreSQL • Power BI • DAX • Data modelling • Dashboard design
 
-## Author
-
-**Your Name** • [LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
